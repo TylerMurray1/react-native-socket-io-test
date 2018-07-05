@@ -4,6 +4,7 @@ Below you'll find information about performing common tasks. The most recent ver
 
 ## Table of Contents
 
+* [Introduction](#introduction)
 * [Updating to New Releases](#updating-to-new-releases)
 * [Available Scripts](#available-scripts)
   * [npm start](#npm-start)
@@ -25,6 +26,11 @@ Below you'll find information about performing common tasks. The most recent ver
   * [Networking](#networking)
   * [iOS Simulator won't open](#ios-simulator-wont-open)
   * [QR Code does not scan](#qr-code-does-not-scan)
+
+## Introduction
+
+This is a very simple app that shows how powerful react native can be with live socket.io updates.
+This concept can be used for apps that require live updates or instant messaging. 
 
 ## Updating to New Releases
 
